@@ -119,11 +119,11 @@ tt46665146,Fresh Meat,2026-10-12,Horror,0,561614,6.7,246.0
 tt10545296,The Hunger Games: The Ballad of Songbirds & Snakes,2023-11-15,"Science Fiction, Action",100000000,337371917,6.6,195797.0
 tt36164852,Tad and The Magic Lamp,2026-08-26,"Animation, Comedy, Family",0,0,6.4,528.0
 tt39313557,The Christmas Switch,2026-11-12,"Romance, Comedy",0,0,5.4,1429.0
+tt0098084,Pet Sematary,1989-04-21,Horror,11500000,57500000,6.5,126902.0
 tt14523706,Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-,2026-08-28,"Animation, Drama, Mystery, Fantasy",0,15800000,,
 tt43738410,DNK,2026-11-12,"Comedy, Crime",0,0,9.2,2233.0
 tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,"Adventure, Fantasy, Action",93000000,871368364,8.9,2253633.0
 tt0327597,Coraline,2009-02-05,"Animation, Family, Fantasy, Horror",60000000,185860104,7.8,314700.0
-tt34966140,Focker-in-Law,2026-11-21,"Comedy, Romance",0,0,,
 tt46668554,A Very Arctic Christmas,2026-10-29,"TV Movie, Comedy, Romance",0,0,7.1,221.0
 tt33477484,5 Centimeters per Second,2025-10-10,"Drama, Romance",0,0,7.0,763.0
 tt31378509,Dune: Part Three,2026-12-15,"Science Fiction, Adventure",200000000,0,,
@@ -199,7 +199,6 @@ tt0304141,Harry Potter and the Prisoner of Azkaban,2004-05-31,"Adventure, Fantas
 tt0114369,Se7en,1995-09-22,"Crime, Mystery, Thriller",33000000,327311859,8.6,2078979.0
 tt34724686,Brawlers,2026-04-15,"Action, Adventure, Comedy",0,4710000,5.5,473.0
 tt37971717,One Last Shot,2026-09-22,"Action, Thriller",0,0,5.2,1590.0
-tt6772418,The Legend of the Black Charro,2018-01-19,"Animation, Fantasy, Action, Family",0,5300000,7.0,580.0
 tt32333324,Batman: Knightfall Part 1: Knightfall,2026-06-23,"Animation, Action, Adventure, Drama",0,0,7.8,10644.0
 tt0119698,Princess Mononoke,1997-07-12,"Adventure, Fantasy, Animation",20000000,231379818,8.3,494838.0
 tt29552248,Swapped,2026-05-01,"Adventure, Animation, Family, Fantasy",7,7,7.2,26446.0
@@ -212,13 +211,14 @@ tt16311594,F1,2025-06-25,"Action, Drama",300000000,634142436,7.6,402814.0
 tt0071562,The Godfather Part II,1974-12-20,"Drama, Crime",13000000,102600000,9.0,1524701.0
 tt39453578,The Good Lawyer,2026-09-11,"Thriller, Drama",0,0,6.5,1394.0
 tt10676052,The Fantastic 4: First Steps,2025-07-23,"Science Fiction, Adventure, Action",200000000,521858728,6.8,300704.0
-tt33311069,The Furious,2026-06-10,"Action, Crime, Thriller",20000000,39745080,7.2,31035.0
 tt0499549,Avatar,2009-12-16,"Science Fiction, Action, Adventure",237000000,2923706026,7.9,1522192.0
+tt33311069,The Furious,2026-06-10,"Action, Crime, Thriller",20000000,39745080,7.2,31035.0
 tt0926084,Harry Potter and the Deathly Hallows: Part 1,2010-11-17,"Adventure, Fantasy",250000000,954305868,7.7,680296.0
 tt37803364,Possible Love,2026-09-23,Drama,0,0,7.6,5048.0
 tt0088763,Back to the Future,1985-07-03,"Adventure, Comedy, Science Fiction",19000000,391546852,8.5,1488488.0
 tt1099212,Twilight,2008-11-20,"Fantasy, Drama, Romance",37000000,393616788,5.4,539477.0
 tt15940132,War Machine,2026-02-12,"Action, Science Fiction, Thriller",80000000,0,6.3,124555.0
+tt13560574,X,2022-03-17,Horror,1000000,14745049,6.5,232870.0
 tt13560574,X,2022-03-17,Horror,1000000,14745049,6.5,232870.0
 tt27543632,The Housemaid,2025-12-18,"Mystery, Thriller",35000000,400483145,6.7,215002.0
 tt31450459,Digger,2026-09-28,"Comedy, Drama",180000000,50850116,7.5,48426.0
@@ -739,6 +739,7 @@ tt2379713,Spectre,2015-10-26,"Action, Adventure, Thriller",245000000,880707597,6
 tt0113824,Whisper of the Heart,1995-07-15,"Animation, Drama, Family",0,0,7.8,85689.0
 tt3450958,War for the Planet of the Apes,2017-07-11,"Drama, Science Fiction, War",150000000,490719763,7.4,332016.0
 tt0351283,Madagascar,2005-05-25,"Adventure, Animation, Comedy, Family",75000000,542064525,7.0,490497.0
+tt33244668,Anaconda,2025-12-24,"Adventure, Comedy, Horror",45000000,135148320,5.5,76171.0
 tt29714073,Bad Apples,2026-09-10,"Comedy, Thriller",0,0,6.7,8684.0
 tt1646971,How to Train Your Dragon 2,2014-06-05,"Fantasy, Action, Adventure, Animation, Family",145000000,621537519,7.8,409608.0
 tt1217209,Brave,2012-06-21,"Adventure, Animation, Family, Fantasy",185000000,538983207,7.1,488289.0
@@ -754,11 +755,10 @@ tt0166924,Mulholland Drive,2001-06-06,"Thriller, Drama, Mystery",15000000,202899
 tt6264654,Free Guy,2021-08-11,"Comedy, Adventure, Science Fiction",110000000,331526598,7.1,501757.0
 tt38238651,The Internship,2026-01-13,Action,0,0,4.2,1494.0
 tt1843866,Captain America: The Winter Soldier,2014-03-20,"Action, Adventure, Science Fiction",170000000,714766572,7.7,997351.0
+tt13186482,Mufasa: The Lion King,2024-12-18,"Adventure, Family, Animation",200000000,722631756,6.6,85684.0
 tt0029583,Snow White and the Seven Dwarfs,1938-01-22,"Fantasy, Animation, Family",1488423,184925486,7.6,241681.0
 tt28014327,Mayday,2026-09-03,"Action, Comedy",0,0,6.8,58417.0
 tt1190080,2012,2009-10-10,"Action, Adventure, Science Fiction",200000000,791217826,5.9,429410.0
-tt3397884,Sicario,2015-09-17,"Action, Crime, Thriller",30000000,84997446,7.7,555301.0
-tt8790086,Kraven the Hunter,2024-12-11,"Action, Adventure, Thriller",130000000,62076533,5.5,90273.0
 tt7888964,Nobody,2021-03-18,"Action, Thriller",16000000,57512470,7.4,409685.0
 tt0114814,The Usual Suspects,1995-07-19,"Drama, Crime, Thriller",6000000,23300000,8.5,1263082.0
 tt8036976,Send Help,2026-01-22,"Horror, Thriller, Comedy",40000000,94041481,6.7,164645.0
