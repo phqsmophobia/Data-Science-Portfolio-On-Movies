@@ -9,4 +9,11 @@ Can Data Science & Machine Learning models be used to determine the revenue of a
 ## Data Sourcing & Collection 
 Rather than downloading a pre-made data set from a source like Kaggle, the idea is to build my own master dataset of movies from multiple sources using a combination of API's (TMDB API, IMDb). In doing so, I can have more control over the dataset itself while also getting a better understanding of the full process of data analytics. 
 
-Varying data regarding each movie can be found in multiple sources. For instance, the movie genre, release date, revenue and budget may all be found in the TMDB API, whilst ratings can be found via IMDb-related data. 
+Varying data regarding each movie can be found in multiple sources. For instance, the movie genre, release date, revenue and budget may all be found in the TMDB API, whilst ratings can be found via IMDb-related data.
+
+## Data Sources & Attribution
+
+- Movie information: TMDB API.
+- Movie ratings and vote counts: IMDb API.
+
+Data courtesy of TMDB and IMDb.
