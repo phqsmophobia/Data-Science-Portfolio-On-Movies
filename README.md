@@ -30,6 +30,7 @@ Varying data regarding each movie can be found in multiple sources. For instance
 5. [scikit-learn — Regression Metrics ($R^2$, RMSE, MAE)](https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics) — Evaluating model accuracy and average dollar error across the test split.
 6. [MDN Web Docs — CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout) — Structuring the responsive 2×3 comparison grid for the six model cards.
 7. [MDN Web Docs — CSS `z-index`](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index) — Layering the autocomplete search dropdown cleanly over the results grid.
+8. [GitHub Docs — Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) — Setting up a root `index.html` entry file so GitHub Pages automatically loads the main webpage.
 
 ## Data Sources & Attribution
 
