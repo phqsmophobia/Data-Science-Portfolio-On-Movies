@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  flex-direction: column;
+  padding-top: 150px;
+  color-scheme: dark;
+  align-items: center;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  overflow: hidden;
+  background-color: #050507;
+  color: #f4f4f5;
+  display: flex;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 900;
+  margin-bottom: 25px;
+}
+
+input {
+  width: 100%;
+  max-width: 560px;
+  padding: 15px;
+  font-size: 15px;
+  box-sizing: border-box;
+  color: #ffffff;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+  background-color: rgba(44, 44, 44, 0.212);
+  border: 1px solid rgba(255, 255, 255, 0.653);
+  border-radius: 100px;
+  outline: none;
+  margin-bottom: 20px;
+}
+
+ul{
+    border-radius: 10px;
+    padding:5px;
+}
+
+.searchsection {
+  position: relative;
+  width: 100%;
+  max-width: 560px;
+  z-index: 999;
+}
+
+#movies {
+  background: #111;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.85);
+  border-radius: 10px;
+  max-height: 200px;
+  overflow-y: auto;
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 100%;
+  list-style: none;
+  z-index: 999;
+}
+
+.grid {
+  display: none;
+  position: relative;
+  z-index: 1;
+  grid-template-columns: repeat(6, 1fr);
+  justify-content: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 820px;
+  margin-top: 10px;
+}
+
+#movies li {
+  padding: 7px;
+  cursor: pointer;
+}
+
+input::placeholder {
+  color: #7a7a85;
+}
+
+input:focus {
+  border-color: #e9f0f3;
+  box-shadow: 0 0 24px rgba(223, 228, 230, 0.25);
+}
+
+p {
+  max-width: 520px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #a1a1aa;
+}
+
+#movies:empty {
+  display: none;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  font-size: 11px;
+  color: #909093;
+  border-top: 1px solid rgba(255, 255, 255, 0.477);
+}
+
+.box {
+  background: #111;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  padding: 18px;
+  text-align: left;
+  width: 220px;
+  font-size: 13px;
+}
+
+.box h3 {
+  font-size: 15px;
+  margin-bottom: 6px;
+  color: #fff;
+}
